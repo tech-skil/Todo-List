@@ -1,4 +1,4 @@
-# OnTopic Todo List
+# Todo List
 
 ## Overview
 
